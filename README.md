@@ -1,10 +1,10 @@
 # freegemestyle
-freegemestyle/
-├── index.html
-├── play.html
-├── style.css
+freegemestyle_site/
+├── index.html         ← Homepage
+├── play.html          ← Pagina di gioco
+├── style.css          ← Stile del sito
 └── game/
-    └── main.js
+    └── main.js        ← Script del gioco
     <!DOCTYPE html>
 <html lang="it">
 <head>
